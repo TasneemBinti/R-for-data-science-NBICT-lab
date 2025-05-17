@@ -44,3 +44,6 @@ stu.info=data.frame(student.names,study.hourT,marks,gender)
 View(stu.info)
 stu.info
 summary(stu.info)
+
+stu.info$study.hourT
+stu.info$study.hourT
